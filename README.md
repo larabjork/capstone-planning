@@ -1,13 +1,13 @@
 CAPSTONE PLANNING
 2/28/2020
-8:15 - create README, read assignment, plan day 
+8:15 - 8:45 create README, read assignment, plan day 
 
 
 Name of Project: MS Health Tracker
 
 Project’s Purpose or Goal: (What will it do for users?)
 
-This app will help people who have multiple sclerosis (like me!) record and keep track of what matters most to them. Your medical records never tell the whole story of what it’s like to have a chronic health condition or what you’ve done to take care of yourself; doctors and other medical professionals aren; always interested in details that matter a lot to patients. This app will help patients document the full picture of how the disease is affecting them and all the things that they are doing to take care of themselves.
+This app will help people who have multiple sclerosis (like me!) record and keep track of what matters most to them. Your medical records never tell the whole story of what it’s like to have a chronic health condition or what you’ve done to take care of yourself; doctors and other medical professionals aren't always interested in details that matter a lot to patients. This app will help patients document the full picture of how the disease is affecting them and all the things that they are doing to take care of themselves.
 
 List the absolute minimum features the project requires to meet this purpose or goal:
 
