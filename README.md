@@ -1,7 +1,8 @@
 CAPSTONE PLANNING
 2/28/2020
 8:15 - 8:45 create README, read assignment, plan day
-8:45 - research on writing good test cases and user stories
+8:45 - 9:45 research on writing good test cases and user stories
+9:45 - notes for user stories and acceptance criteria for this MVP
 
 
 Name of Project: MS Health Tracker
@@ -53,3 +54,6 @@ What additional tools, frameworks, libraries, APIs, or other resources will thes
 Calendar integration: Google calendar API and similar for other calendar apps
 
 Sharing health info with another user: OAuth or comparable service?
+
+
+USER STORIES FRAMEWORK
