@@ -1,10 +1,16 @@
-CAPSTONE PLANNING
-2/28/2020
-8:15 - 8:45 create README, read assignment, plan day
-8:45 - 9:45 research on writing good test cases and user stories
-9:45 - 10:20 notes for user stories and acceptance criteria for this MVP; draft user stories added to README
-10:20 - 12 ~~acceptance criteria drafting~~ scrapped acceptance criteria development for now; reformatted README/project proposal instead
-12:00 - 1:00 tutorial on audio to text (https://www.freecodecamp.org/news/how-to-build-a-simple-speech-recognition-app-a65860da6108/)
+### CAPSTONE PLANNING
+### 2/28/2020
+* 8:15 - 8:45 create README, read assignment, plan day
+* 8:45 - 9:45 research on writing good test cases and user stories
+* 9:45 - 10:20 notes for user stories and acceptance criteria for this MVP; draft user stories added to README
+* 10:20 - 12 ~~acceptance criteria drafting~~ scrapped acceptance criteria development for now; reformatted README/project proposal instead
+* 12:00 - 1:00 tutorial on audio to text (https://www.freecodecamp.org/news/how-to-build-a-simple-speech-recognition-app-a65860da6108/)
+  * QUESTIONS:
+    * max length of speech? seems like it cut out.
+    * responses (time of day etc. didn't seem to work)
+    * save functionality? how to hang onto the text that is generated?
+1:00-1:45 break
+
 
 # MS Health Tracker: Epicodus Capstone Project
 ## Created by Lara Bjork, March 2020
