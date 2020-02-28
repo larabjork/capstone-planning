@@ -5,6 +5,18 @@ CAPSTONE PLANNING
 9:45 - notes for user stories and acceptance criteria for this MVP
 
 
+
+### User Stories
+* As a user, I want to be able to keep track of significant dates/events in my MS history, so that I can easily tell my story to a health practitioner, either when talking with them or filling out new patient paperwork.
+* As a user, I want to be able to log my experience of having MS, whether or not it meets an official “symptom” or relapse, so that I can make sense of what I live with.
+* As a user, I want to be able to log my experience of having MS, I want to be able to choose how often I make journal entries, so that tracking my experiences stays useful and doesn’t become burdensome.
+* As a user, I want to be able to review my journal to find themes/patterns/questions, so that I can prepare for doctor visits.
+* As a user, I want to be able to track the activities I choose to pursue to support myself, so that I can remind myself that I am taking good care of myself.
+* As a user, I want to be able to have a choice between using preset categories for actions I take and creating my own system (or somewhere in between), so that I have a balance of structure and flexibility.
+* As a user, I want to be able to choose how I enter information (typed on laptop, tablet or phone, or recorded audio that is then transcribed), so that I can use whatever method is most convenient and most accessible at a given moment.
+
+
+
 Name of Project: MS Health Tracker
 
 Project’s Purpose or Goal: (What will it do for users?)
