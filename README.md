@@ -3,7 +3,8 @@ CAPSTONE PLANNING
 8:15 - 8:45 create README, read assignment, plan day
 8:45 - 9:45 research on writing good test cases and user stories
 9:45 - 10:20 notes for user stories and acceptance criteria for this MVP; draft user stories added to README
-10:20 - acceptance criteria drafting
+10:20 - 12 ~~acceptance criteria drafting~~ scrapped acceptance criteria development for now; reformatted README/project proposal instead
+12:00 - 1:00 tutorial on audio to text (https://www.freecodecamp.org/news/how-to-build-a-simple-speech-recognition-app-a65860da6108/)
 
 # MS Health Tracker: Epicodus Capstone Project
 ## Created by Lara Bjork, March 2020
