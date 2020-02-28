@@ -1,6 +1,7 @@
 CAPSTONE PLANNING
 2/28/2020
-8:15 - 8:45 create README, read assignment, plan day 
+8:15 - 8:45 create README, read assignment, plan day
+8:45 - research on writing good test cases and user stories
 
 
 Name of Project: MS Health Tracker
