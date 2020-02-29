@@ -1,4 +1,4 @@
-### CAPSTONE PLANNING
+### CAPSTONE PLANNING--WORK IN PROGRESS
 ### 2/28/2020
 * 8:15 - 8:45 create README, read assignment, plan day
 * 8:45 - 9:45 research on writing good test cases and user stories
@@ -60,7 +60,7 @@ PROJECT PROPOSAL TO BE REFINED TO MATCH ACTUAL PRODUCT
 What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 
 * WebSpeechAPI or similar tool for speech recognition and transcription: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
-* React and/or React Native (but probably React Native to start?), Redux, JavaScript, HTML, CSS, custom API to store info (so Ruby/Postgres?), authentication via bcrypt or Devise, some kind of encryption that meets health info privacy standards (?)
+* React and/or React Native (but probably React Native to start?), Redux, JavaScript, HTML, CSS, custom API to store info (so Ruby/Postgres?) ~~authentication via bcrypt or Devise, some kind of encryption that meets health info privacy standards (?)~~
 
 * * *
 
@@ -73,11 +73,12 @@ If you finish developing the minimum viable product (MVP) with time to spare, wh
   * Insurance information;
   * Authorizing other users to view your info;
   * Social media function to connect to other patients;
-  * Other ways you can connect to MS community: research study participation, advocacy, fundraising.
+  * Other ways you can connect to MS community: research study participation, advocacy, fundraising;
+  * Authentication via bcrypt or Devise, some kind of encryption that meets health info privacy standards
 
 * * *
 
 What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
-* Authorization/authentication
+* Authorization/authentication via bCrypt or Devise
 * Calendar integration: Google calendar API and similar for other calendar apps
 * Sharing health info with another user: OAuth or comparable service?
