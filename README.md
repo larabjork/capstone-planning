@@ -10,7 +10,8 @@
     * responses (time of day etc. didn't seem to work)
     * save functionality? how to hang onto the text that is generated?
 1:00-1:45 break
-1:45-3:00 start component tree sketch; draft here: ![MS-Tracker-Component-Tree](/MS-Tracker-Component-Tree.jpg)
+1:45-3:00 start component tree sketch
+3:15-4:00 continue with component tree sketch; draft here: ![MS-Tracker-Component-Tree](/MS-Tracker-Component-Tree.jpg)
 
 
 # MS Health Tracker: Epicodus Capstone Project
